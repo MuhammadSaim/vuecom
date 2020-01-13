@@ -1,4 +1,4 @@
-# vue-ecom
+# VueCom
 
 ## Project setup
 ```
